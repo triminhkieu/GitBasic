@@ -2,7 +2,7 @@ Git guideline:
 	* git --version: check version git  
  * git config -global user.name "your_username": input your username
  * git config -global user.email "your_email": input your email  
- 	* Create a new repository on the command line  
+ 	* Create a new repository on the command line
  - 1: git init: create local repository (eg: .git)
  - 2: git status: show which branch where project is (eg: main/master/...)
  - 3: Create file .gitignore in folder on website: gitignore.io - we don't want some file upload to github which in .gitignore
