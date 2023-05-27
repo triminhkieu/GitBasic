@@ -1,5 +1,5 @@
 Git guideline:  
-	*git --version: check version git
+	* git --version: check version git  
 	* Create a new repository on the command line
  * git config -global user.name "your_username": input your username
  * git config -global user.email "your_email": input your email
