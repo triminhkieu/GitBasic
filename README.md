@@ -11,5 +11,5 @@ Git guideline:
  - 6. git add <file_want_to_upload>: upload which file we want to upload
  - 7. git commit -m "write_your_comment": upload files and reasons
  - 8. git remote add origin https://github.com/name_your_project
- - 9: git push -u origin main: main/master is depend on you  
+ - 9. git push -u origin main: main/master is depend on you  
 
