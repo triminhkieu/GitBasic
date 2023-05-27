@@ -16,5 +16,9 @@ Git guideline:
  - 1: git add *
  - 2: git commit -m "write_your_comment"
  - 3: git push -u origin main
+<<<<<<< HEAD
 	* Download project:
  - 1: git clone https://github.com/name_project
+=======
+hello
+>>>>>>> c0994324a78054ad679fad601a6b0586bb0f9f24
